@@ -1,0 +1,1 @@
+Simpan foto profil dan gambar proyek Anda di folder ini. Gunakan nama file yang sederhana, misalnya `foto-profil.jpg` atau `proyek-branding.jpg`, lalu perbarui atribut `src` di `index.html`.
